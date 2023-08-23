@@ -10,6 +10,16 @@ Our web application simplifies the process of listing items for sale and enables
 - **Real-Time Messaging:** Seamlessly communicate with other users interested in your listings.
 
 
-Built using ReactJS and Redux, with the backend handled by MongoDB, Kafka, and ExpressJS
+## Technologies Used
 
-test
+Our web application was developed using the following technologies and tools:
+
+- **ReactJS:** A powerful JavaScript library for building user interfaces.
+- **Redux:** A state management library for predictable and scalable application state.
+- **Websockets:** For real-time, bidirectional communication between clients and the server.
+- **MongoDB:** A NoSQL database for storing and managing application data.
+- **Kafka:** A distributed streaming platform for building real-time data pipelines and streaming applications.
+- **ExpressJS:** A fast and minimalist web framework for Node.js, used for building the server-side logic of our application.
+
+
+
